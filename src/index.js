@@ -13,7 +13,7 @@ console.log("resta de 20 - 5: " ,subtract(20,5))
 
 console.log("multiply de 4 * 5: ", multiply(4, 5))
 console.log("multiply de 3 * 0: ", multiply(3, 0))
-console.log("multiply de 6 * 6: ", multiply(4, 6))
+console.log("multiply de 6 * 6: ", multiply(6, 6))
 
 
 console.log("divide de 50 / 10: ", divide(50, 10))
